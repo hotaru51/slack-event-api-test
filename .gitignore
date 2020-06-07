@@ -10,3 +10,7 @@ cdk.out
 # Parcel build directories
 .cache
 .build
+
+# bundler
+lambda/**/vendor/bundle/
+.bundle
